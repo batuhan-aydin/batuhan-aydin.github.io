@@ -1,8 +1,8 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+title: Blog
+description: My blog
+author: Batuhan Aydın
+github: https://github.com/batuhan-aydin
+about: I'm Pa Software Engineer interested in backend development. I've made quite a few web apps on differen programming languages and frameworks.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 
@@ -16,15 +16,13 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "#"
+      link: "https://www.facebook.com/ArcTrooperMen"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/droidarc"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://www.linkedin.com/in/batuhan-ayd%C4%B1n-40a311117/"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/batuhan-aydin"
 
 share:
   twitter_username: github.io
@@ -35,8 +33,6 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://agusmakmun.github.io"
 baseurl: ""
