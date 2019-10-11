@@ -1,42 +1,38 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
+		"slug": "renten",
+		"name": "Renten",
 		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"url": "https://github.com/batuhan-aydin/Renten",
+		"date": "2019",
+		"tags": ["Django","Python"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "task-coordination",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"url": "https://github.com/batuhan-aydin/task-coordination",
+		"date": "2019",
+		"tags": ["Python","Javascript", "Flask", "Vue", "API"]
 	},
 	{
-		"name": "Cool project 3",
+		"name": "pizza-order-app",
 		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
+		"url": "https://github.com/batuhan-aydin/pizza-order-app",
+		"date": "2018",
+		"tags": ["PHP", "Laravel"]
 	},
 	{
-		"name": "Cool project 4",
+		"name": "recipes",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"url": "https://github.com/batuhan-aydin/recipes",
+		"date": "2017",
+		"tags": ["nodejs", "Javascript"]
 	},
 	{
-		"name": "Cool project 5",
+		"name": "flask-boilerplate",
 		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 6",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"url": "https://github.com/batuhan-aydin/flask-boilerplate",
+		"date": "2019",
+		"tags": ["Python","Flask"]
 	}
 ]
