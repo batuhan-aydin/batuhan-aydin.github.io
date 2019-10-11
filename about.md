@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm a Software Engineer interested in backend development. I've made quite a few web apps on differen programming languages and frameworks.
 
-email: agus[at]python.web.id
+email: batuhanaydin501[at]gmail.com
